@@ -1,3 +1,6 @@
+# Ignore lesson Videos I downloaded myself. See the README for Wes' method of dl'ing them.
+videos
+
 # Logs
 logs
 *.log
